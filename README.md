@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeemaShettar
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Development, Front End Web Development, Full Stack Web Development, Software Engineering
+- 🌱 I’m currently learning Full Stack Web Development Course at Internshala Trainings
+- 💞️ I’m looking to collaborate on Software Engineer, Front End Web Development, Full Stack Web Development
 
 
 <!---
