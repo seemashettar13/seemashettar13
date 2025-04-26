@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeemaShettar
 - 👀 I’m interested in Web Development, Front End Web Development, Full Stack Web Development, Software Engineering
-- 🌱 I’m currently learning Full Stack Web Development Course at Internshala Trainings
+- 🌱 I’m currently learning Full Stack Web Development Course at Internshala Trainings and Intern at Dhee Coding Lab 
 - 💞️ I’m looking to collaborate on Software Engineer, Front End Web Development, Full Stack Web Development
 
 
@@ -12,11 +12,11 @@ You can click the Preview link to take a look at your changes.
 ## 🛠 Skills
 - Front-End Development: HTML5, CSS(Flexbox, Grid), JavaScript(ES6+),
 - Back-End Development(Learning ): ReactJS, Node.js, Express.js
-- Database: SQL [MySQL]
+- Database: SQL [Oracle Database]
 - Programming Languages: Java Script, Java, Python
 - Data Structures & Algorithms(DSA): Time Complexity Optimization, Recursion, Sorting & Searching
 - Version Control: Git, GitHub
-- IDE: Visual studio
+- IDE: Visual studio, Eclipse
   
 
 
